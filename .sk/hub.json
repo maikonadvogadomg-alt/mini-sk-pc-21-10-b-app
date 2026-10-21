@@ -1,0 +1,17 @@
+{
+  "titulo": "Mini-SK-PC-21-10-B",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon-192.png"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
